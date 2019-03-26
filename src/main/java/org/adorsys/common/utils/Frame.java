@@ -1,4 +1,4 @@
-package org.adorsys.cryptoutils.utils;
+package org.adorsys.common.utils;
 
 import java.util.ArrayList;
 import java.util.List;

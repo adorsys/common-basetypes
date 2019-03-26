@@ -1,7 +1,4 @@
-package org.adorsys.cryptoutils.exceptions;
-
-import java.util.Arrays;
-import java.util.stream.Stream;
+package org.adorsys.common.exceptions;
 
 /**
  * Created by peter on 23.12.17 at 18:11.

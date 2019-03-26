@@ -1,4 +1,4 @@
-package org.adorsys.cryptoutils.exceptions;
+package org.adorsys.common.exceptions;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
