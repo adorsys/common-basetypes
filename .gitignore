@@ -1,6 +1,10 @@
+.idea
+pom.xml.versionsBackup
+release-scripts/
+target/
+
 # Compiled class file
 *.class
-
 # Log file
 *.log
 
