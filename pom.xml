@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.adorsys</groupId>
     <artifactId>common-basetypes</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>common-basetypes</name>
     <url>https://github.com/adorsys/common-basetypes</url>
     <packaging>jar</packaging>
