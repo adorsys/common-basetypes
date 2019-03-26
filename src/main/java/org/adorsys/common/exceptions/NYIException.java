@@ -1,4 +1,4 @@
-package org.adorsys.cryptoutils.exceptions;
+package org.adorsys.common.exceptions;
 
 /**
  * Created by peter on 15.02.18 at 10:58.

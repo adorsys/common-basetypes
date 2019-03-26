@@ -1,4 +1,4 @@
-package org.adorsys.cryptoutils.basetypes;
+package org.adorsys.common.basetypes;
 
 import java.io.Serializable;
 import java.lang.reflect.Type;

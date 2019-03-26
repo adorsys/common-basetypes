@@ -1,4 +1,4 @@
-package org.adorsys.cryptoutils.utils;
+package org.adorsys.common.utils;
 
 /**
  * Created by peter on 03.01.18.
