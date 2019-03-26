@@ -7,8 +7,8 @@ Um ein release zu erstellen, sind folgende Schritte notwendig:
     
     git checkout develop
     git pull
-    git submodules init
-    git submodules update
+    git submodule init
+    git submodule update
     ./release-scripts/release.sh 0.18.8 0.18.9
     git push --atomic origin master develop --follow-tags 
     
