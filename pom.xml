@@ -6,6 +6,7 @@
     <artifactId>common-basetypes</artifactId>
     <version>0.0.6-SNAPSHOT</version>
     <name>common-basetypes</name>
+    <description>common basetypes, exceptionhandling and utilstuff</description>
     <url>https://github.com/adorsys/common-basetypes</url>
     <packaging>jar</packaging>
     <scm>
