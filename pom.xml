@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.adorsys</groupId>
     <artifactId>common-basetypes</artifactId>
-    <version>0.0.7</version>
+    <version>0.0.8-SNAPSHOT</version>
     <name>common-basetypes</name>
     <description>common basetypes, exceptionhandling and utilstuff</description>
     <url>https://github.com/adorsys/common-basetypes</url>
