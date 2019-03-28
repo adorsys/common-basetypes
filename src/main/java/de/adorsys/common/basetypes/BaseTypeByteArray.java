@@ -1,6 +1,6 @@
-package org.adorsys.common.basetypes;
+package de.adorsys.common.basetypes;
 
-import org.adorsys.common.utils.HexUtil;
+import de.adorsys.common.utils.HexUtil;
 
 import java.io.Serializable;
 import java.util.Arrays;

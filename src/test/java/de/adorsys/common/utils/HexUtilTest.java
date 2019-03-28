@@ -1,4 +1,4 @@
-package org.adorsys.common.utils;
+package de.adorsys.common.utils;
 
 import org.junit.Assert;
 import org.junit.Test;

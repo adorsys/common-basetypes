@@ -1,4 +1,4 @@
-package org.adorsys.common.basetypes;
+package de.adorsys.common.basetypes;
 
 /**
  * Created by peter on 22.01.18 at 17:24.

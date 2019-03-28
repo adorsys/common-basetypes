@@ -1,4 +1,4 @@
-package org.adorsys.common.exceptions;
+package de.adorsys.common.exceptions;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

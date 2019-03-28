@@ -1,7 +1,7 @@
-package org.adorsys.common.basetypes;
+package de.adorsys.common.basetypes;
 
 
-import org.adorsys.common.utils.HexUtil;
+import de.adorsys.common.utils.HexUtil;
 
 /**
  * Created by peter on 22.01.18 at 17:45.

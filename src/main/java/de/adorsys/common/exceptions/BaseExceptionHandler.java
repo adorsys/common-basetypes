@@ -1,4 +1,4 @@
-package org.adorsys.common.exceptions;
+package de.adorsys.common.exceptions;
 
 /**
  * Created by peter on 23.12.17 at 18:11.

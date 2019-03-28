@@ -1,27 +1,33 @@
-package org.adorsys.common.basetypes;
+package de.adorsys.common.basetypes;
 
 import java.io.Serializable;
 
 /**
- * Created by peter on 21.02.17.
+ * Created by peter on 20.02.17.
  */
-public class BaseTypeLong implements Serializable {
-    private Long value;
+class BaseTypeInteger  implements Serializable {
+    private Integer value;
 
-    protected BaseTypeLong() {
+    protected BaseTypeInteger() {
     }
 
-    protected BaseTypeLong(Long value) {
+    protected BaseTypeInteger(Integer value) {
         this.value = value;
     }
 
-    public Long getValue() {
+    public Integer getValue() {
         return value;
+    }
+
+    public void increase() {
+        this.value = this.value + 1;
     }
 
     @Override
     public String toString() {
-        return this.getClass().getSimpleName() + "{\'" + value + "\'}";
+        return this.getClass().getSimpleName() + "{" +
+                "value=" + value +
+                '}';
     }
 
     @Override
@@ -29,7 +35,7 @@ public class BaseTypeLong implements Serializable {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        BaseTypeLong that = (BaseTypeLong) o;
+        BaseTypeInteger that = (BaseTypeInteger) o;
 
         return value != null ? value.equals(that.value) : that.value == null;
 
@@ -40,4 +46,3 @@ public class BaseTypeLong implements Serializable {
         return value != null ? value.hashCode() : 0;
     }
 }
-

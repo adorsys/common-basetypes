@@ -1,4 +1,4 @@
-package org.adorsys.common.basetypes;
+package de.adorsys.common.basetypes;
 
 import java.io.Serializable;
 

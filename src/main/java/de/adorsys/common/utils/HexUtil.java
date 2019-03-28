@@ -1,4 +1,4 @@
-package org.adorsys.common.utils;
+package de.adorsys.common.utils;
 
 /**
  * Created by peter on 03.01.18.
